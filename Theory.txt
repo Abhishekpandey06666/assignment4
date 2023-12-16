@@ -1,0 +1,10 @@
+   Tag:-
+      A tag in HTML is a keyword surrounded by angle brackets (< and >),
+ used to define elements on a web page. Tags come in pairs: an opening tag and a closing tag. 
+ The opening tag contains the name of the element,
+ and the closing tag has a forward slash before the element name.
+
+   Element:
+        An HTML element consists of an opening tag, content, and a closing tag.
+ It represents a specific part of a document and helps structure the content.
+ Elements can also contain other elements.
